@@ -1,7 +1,5 @@
 # Tableau_2025
 
-# Guitar Tablature Analysis and Visualization
-
 This repository explores the power of data visualization in understanding and analyzing guitar tablature (tabs). Using Tableau, we can transform raw tab data into insightful visual representations, helping musicians, educators, and enthusiasts gain deeper insights into musical patterns, techniques, and compositions.
 
 ## Table of Contents
